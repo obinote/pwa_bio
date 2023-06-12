@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143" height="143" viewBox="0 0 143 143">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_255" data-name="Ellipse 255" cx="71.5" cy="71.5" r="71.5" transform="translate(-8198 -15670)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3999" data-name="Group 3999" transform="translate(-798 -377)">
+    <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(8996 16047)" clip-path="url(#clip-path)">
+      <g id="Group_3997" data-name="Group 3997" transform="translate(-8205.782 -15670)">
+        <rect id="Rectangle_2277" data-name="Rectangle 2277" width="151" height="151" transform="translate(-0.218)" fill="#ffd501"/>
+        <g id="Group_3996" data-name="Group 3996" transform="translate(25.293 23.347)">
+          <g id="Group_3994" data-name="Group 3994" transform="translate(0 14.592)">
+            <rect id="Rectangle_2278" data-name="Rectangle 2278" width="78" height="97" rx="11" transform="translate(0.49 0.061)" fill="#fff"/>
+            <rect id="Rectangle_2279" data-name="Rectangle 2279" width="63" height="6" transform="translate(8.49 13.061)" fill="#989898"/>
+            <rect id="Rectangle_2280" data-name="Rectangle 2280" width="63" height="6" transform="translate(8.49 41.061)" fill="#f1f1f1"/>
+            <rect id="Rectangle_2281" data-name="Rectangle 2281" width="63" height="5" transform="translate(8.49 51.061)" fill="#f1f1f1"/>
+            <rect id="Rectangle_2282" data-name="Rectangle 2282" width="63" height="7" transform="translate(8.49 59.061)" fill="#f1f1f1"/>
+            <rect id="Rectangle_2283" data-name="Rectangle 2283" width="63" height="6" transform="translate(8.49 69.061)" fill="#f1f1f1"/>
+            <rect id="Rectangle_2284" data-name="Rectangle 2284" width="31" height="7" transform="translate(8.49 22.061)" fill="#989898"/>
+          </g>
+          <g id="Group_3995" data-name="Group 3995" transform="translate(20.428 0)">
+            <rect id="Rectangle_2285" data-name="Rectangle 2285" width="77" height="98" rx="11" transform="translate(0.061 2.652)" fill="#989898" opacity="0.5"/>
+            <rect id="Rectangle_2286" data-name="Rectangle 2286" width="78" height="98" rx="11" transform="translate(2.061 -0.348)" fill="#fff"/>
+            <rect id="Rectangle_2287" data-name="Rectangle 2287" width="61" height="7" transform="translate(11.061 13.652)" fill="#989898"/>
+            <rect id="Rectangle_2288" data-name="Rectangle 2288" width="61" height="6" transform="translate(11.061 40.652)" fill="#f1f1f1"/>
+            <rect id="Rectangle_2289" data-name="Rectangle 2289" width="61" height="6" transform="translate(11.061 50.652)" fill="#f1f1f1"/>
+            <rect id="Rectangle_2290" data-name="Rectangle 2290" width="61" height="5" transform="translate(11.061 60.652)" fill="#f1f1f1"/>
+            <rect id="Rectangle_2291" data-name="Rectangle 2291" width="61" height="7" transform="translate(11.061 68.652)" fill="#f1f1f1"/>
+            <rect id="Rectangle_2292" data-name="Rectangle 2292" width="30" height="6" transform="translate(11.061 23.652)" fill="#989898"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="_216514_warning_icon" data-name="216514_warning_icon" d="M48.081,32.234,33.8,8.423C31.921,5.3,29.053,3.511,25.921,3.511s-6,1.788-7.875,4.908L3.761,32.234c-1.9,3.163-2.107,6.536-.568,9.255s4.538,4.282,8.23,4.282h29c3.692,0,6.693-1.561,8.23-4.279S49.98,35.4,48.081,32.234Zm-22.16,5.2a3.745,3.745,0,1,1,3.745-3.743A3.75,3.75,0,0,1,25.921,37.431Zm3.946-17.939c-.027.075-3.385,8.38-3.385,8.38a.6.6,0,0,1-1.116,0L22,19.565a4.291,4.291,0,0,1-.312-1.583,4.229,4.229,0,1,1,8.174,1.51Z" transform="translate(795.829 471.218)" fill="#f58732"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+{
+    "A customer with the same email address already exists in an associated website.": "A customer with the same email address already exists in an associated website.",
+    "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.": "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",
+    "Customer not authorized create quote.": "Customer not authorized create quote.",
+    "Your file might be a threat.": "Your file might be a threat.",
+    "Something went wrong.": "Something went wrong.",
+    "Could not find a quote with the specified UID.": "Could not find a quote with the specified UID.",
+    "The quote has a status that does not allow it to be closed." : "The quote has a status that does not allow it to be closed.",
+    "The quote has a status that does not allow it to be deleted." : "The quote has a status that does not allow it to be deleted.",
+    "Billing already used!": "Billing already used!",
+    "The requested qty exceeds the maximum qty allowed in shopping cart" : "The requested qty exceeds the maximum qty allowed in shopping cart",
+    "company_group_id is not valid": "The provided input is not valid.",
+    "Cannot add product. NIE Expired.": "Cannot add product. NIE Expired."
+
+}

@@ -1,0 +1,69 @@
+{
+    "allProduct": "All Product",
+    "button": {
+        "clear": "Clear",
+        "clearAll": "Clear All",
+        "save": "Save"
+    },
+    "backButton": "Back",
+    "category":{
+        "category": "Category"
+    },
+    "emptyProductSearchResult": "We can't find products matching the selection.",
+    "etalase": "Etalase",
+    "flashSale": {
+        "caption": "Flash Sale",
+        "comingSoon": "Coming Soon",
+        "days": "Days",
+        "endIn": "Will End In",
+        "expired": "Ended!",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds"
+    },
+    "infoResult": "Try different keywords or check out the product recommendations below.",
+    "login": "Login",
+    "loginToShopping": "Login to shop",
+    "notRegistered": "You are not registered yet on this distributor",
+    "product": {
+        "companyRegister": "Sign up to shop",
+        "name": "Product",
+        "nieExpired": "NIE Expired",
+        "nieValidTo": "NIE Valid To",
+        "title_product": "Name product"
+    },
+    "recommendation": {
+        "title": "Recommended Product"
+    },
+    "registerNow": "Register Now",
+    "registerToShopping": "You haven`t registered as a buyer at this distributor",
+    "searchBox": "Search for Product at {{company_name}}",
+    "sort": {
+        "alphabet":{
+            "asc": "Alphabetically (A to Z)",
+            "desc": "Alphabetically (Z to A)"
+        },
+        "price":{
+            "asc": "Price (Low to High)",
+            "desc": "Price (High to Low)"
+        },
+        "relevance": "Most Relevance"
+    },
+    "title": {
+        "brand": "Brand",
+        "category": "Category",
+        "color": "Color",
+        "nowShoppingBasedOn": "Now shopping based on",
+        "search": "Search ...",
+        "searchResult": "Search result for",
+        "shoppingBasedOn": "Shopping Option",
+        "shoppingOption": "Filter",
+        "short": "Sort by",
+        "shortFilter": "Sort by",
+        "showApprovedDistributor": "Only show products from applied distributor",
+        "size": "Size"
+    },
+    "wishlist": {
+        "addWithoutLogin": "Please login to add this item to your wishlist"
+    }
+}

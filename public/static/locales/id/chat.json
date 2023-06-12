@@ -1,0 +1,19 @@
+{
+    "chooseDistributor": "Pilih Distributor",
+    "chooseDistributorList": "Pilih distributor untuk memulai percakapan",
+    "needHelp": "Butuh Bantuan Chat Bot",
+    "autoText": {
+        "readyStock": "Hai, apakah barang ini ready?",
+        "expired": "Tanggal kadaluarsa barang ini kapan?",
+        "sendingToday": "Kapan bisa dikirimkan?",
+        "askingOrder": "Bagaimana cara melacak pesanan saya?",
+        "payment": "Bagaimana cara melanjutkan pembayaran?",
+        "credit": "Bagaimana cara mengecek status piutang?",
+        "cancel": "Bagaimana cara membatalkan pesanan?",
+        "minimumOrder": "Berapa minimum order untuk mendapatkan gratis ongkir?",
+        "thanks": "Terima kasih!"
+    },
+    "emptyUser": "User tidak ditemukan",
+    "writeMessage": "Tulis Pesan",
+    "sendingMessage": "Kirim Pesan"
+}

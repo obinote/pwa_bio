@@ -1,0 +1,144 @@
+{
+    "email": {
+        "required": "Email tidak boleh kosong",
+        "wrong": "Email tidak sesuai"
+    },
+    "phoneNumber": {
+        "required": "Nomor telepon tidak boleh kosong",
+        "wrong": "Nomor telepon tidak sesuai"
+    },
+    
+    "phoneEmail": {
+        "required": "Nomor telepon atau email tidak boleh kosong",
+        "wrong": "Silahkan masukan alamat email valid (Contoh: johndoe@domain.com)."
+    },
+    "password": {
+        "required": "Password tidak boleh kosong",
+        "wrong": "Password tidak sesuai"
+    },
+    "newPassword": {
+        "required": "Kata sandi baru tidak boleh kosong",
+        "wrong": "Kata sandi baru tidak sesuai",
+        "scoreMustBeAtLeast": {
+            "medium": "Kekuatan sandi minimal harus sedang"
+        }
+    },
+    "addressLabel": {
+        "required": "Label alamat tidak boleh kosong"
+    },
+    "name": {
+        "required": "Nama tidak boleh kosong"
+    },
+    "firstName": {
+        "required": "Nama depan tidak boleh kosong"
+    },
+    "fullName": {
+        "required": "Nama tidak boleh kosong"
+    },
+    "message": {
+        "required": "Pesan tidak boleh kosong"
+    },
+    "lastName": {
+        "required": "Nama belakang tidak boleh kosong"
+    },
+    "confirmPassword": {
+        "required": "Konfirmasi password tidak boleh kosong",
+        "wrong": "Konfirmasi password tidak sama"
+    },
+    "confirmNewPassword": {
+        "required": "Konfirmasi kata sandi baru tidak boleh kosong",
+        "wrong": "Konfirmasi kata sandi baru tidak sama"
+    },
+    "telephone": {
+        "required": "Telepon tidak boleh kosong"
+    },
+    "whatsappNumber": {
+        "required": "Nomor whatsapp tidak boleh kosong",
+        "wrong": "Nomor whatsapp tidak sesuai"
+    },
+    "file": {
+        "wrongType": "Format file tidak sesuai",
+        "tooLarge": "Ukuran file terlalu besar"
+    },
+    "emailPhone": "Email atau nomor telepon tidak boleh kosong",
+    "tos": {
+        "required": "Setujui kebijakan kami"
+    },
+    "street": {
+        "required": "Alamat jalan tidak boleh kosong",
+        "wrong": "Alamat belum sesuai"
+    },
+    "postal": {
+        "required": "Kode Pos tidak boleh kosong",
+        "wrong": "Kode Pos belum sesuai"
+    },
+    "country": {
+        "required": "Negara tidak boleh kosong"
+    },
+    "state": {
+        "required": "Bagian / Provinsi tidak boleh kosong"
+    },
+    "city": {
+        "required": "Kota tidak boleh kosong"
+    },
+    "district": {
+        "required": "Kecamatan tidak boleh kosong" 
+    },
+    "subDistrict": {
+        "required": "Kelurahan tidak boleh kosong" 
+    },
+    "maps": {
+        "required": "Lokasi peta tidak boleh kosong"
+    },
+    "guest": {
+        "wrong": "Anda harus login terlebih dahulu"
+    },
+    "required": "tidak boleh kosong",
+    "captcha": {
+        "required": "Captcha tidak boleh kosong",
+        "wrong": "Captcha tidak sesuai"
+    },
+    "gender": {
+        "required": "Jenis kelamin tidak boleh kosong"
+    },
+    "dob": {
+        "required": "Tanggal lahir tidak boleh kosong"
+    },
+    "confirmPinPoint": {
+        "required": "Anda harus menyetujui pernyataan diatas ini."
+    },
+    "subject": {
+        "required": "Subyek tidak boleh kosong"
+    },
+    "date": {
+        "invalidDateTo": "Tanggal mulai harus sama atau lebih kecil dari tanggal akhir",
+        "invalidDateFrom": "Masukkan tanggal yang valid. Tanggal mulai tidak boleh melebihi tanggal hari ini"
+    },
+    "nopassword": "Tidak ada password",
+    "passwordStrength": "Kekuatan Password",
+    "weak": "Lemah",
+    "medium": "Sedang",
+    "strong": "Kuat",
+    "veryStrong": "Sangat Kuat",
+    "verystrong": "Sangat Kuat",
+    "passwordStrengthMessage":"Kata sandi harus {{minValue}} karakter dan mengandung {{numberOfRequiredClass}} kelas (Karakter Huruf Besar, Huruf Kecil, Angka, atau Spesial)",
+    "to": "Dari",
+    "from": "Ke",
+    "recipientName": "Nama Penerima",
+    "recipientEmail": "Email Penerima",
+    "senderName": "Nama Pengirim",
+    "senderEmail": "Email Pengirim",
+    "emailTemplate": "Email Template",
+    "amount": "Jumlah",
+    "notValid": "tidak valid",
+    "greaterThanOrEqual": "harus lebih dari atau sama dengan",
+    "lessThanOrEqual": "harus kurang dari atau sama dengan",
+    "value": "Nilai",
+    "code": "Kode",
+    "chooseAmount": "Pilih Jumlah",
+    "customAmount": "Masukkan Jumlah Lainnya",
+    "selectDesign": "Pilih Desain",
+    "composeEmail": "Susun Email",
+    "deliveryDate": "Tanggal Pengiriman",
+    "fieldRequired": "Harus diisi"
+}

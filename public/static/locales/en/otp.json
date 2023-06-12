@@ -1,0 +1,21 @@
+{
+    "button": "Veirify OTP",
+    "choseMethod": "Choose one of method(s) below to get verification code.",
+    "invalid": "Otp is in valid",
+    "label": "Input your code",
+    "maxSend": "Your have maximum request otp",
+    "note": "Note : Max 3 times to send verification code",
+    "pageTitle": "Verification Phone Number",
+    "registerOtpFailed": "Phone number of {{phoneNumber}} is already registered, please use another phone number.",
+    "registerOtpTooManyRetries": "You have exceeded the maximum number of retries : ({{phoneNumber}}",
+    "resend": "seconds, to resend verification code.",
+    "sendFailed": "Otp failed to send",
+    "sendOtp": "Send OTP",
+    "sendSuccess": "Otp success sending",
+    "sendTimes": "Otp has been send",
+    "sms": "Via sms to ",
+    "time": "times",
+    "title": "Verification",
+    "valid": "Otp is valid",
+    "wait": "Verification code has been send. Please wait "
+}

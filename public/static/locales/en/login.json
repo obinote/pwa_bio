@@ -1,0 +1,23 @@
+{
+    "customerLogin": "Welcome",
+    "emailFields": "john.doe@gmail.com",
+    "emailLabel": "Email",
+    "failed": "Login failed",
+    "forgotPassword": "Forgot password",
+    "haveAccount": "If you have an account",
+    "loginInformation": "Please sign in with the registered account",
+    "loginOtpInformation": " If you have an account with registered phone number, sign in with your phone number.",
+    "loginPhoneEmailInformation": "If you have an account, sign in with your email address or phone number.",
+    "newCustomer": "Don't have an account?",
+    "notHaveAccount": "Don't have an account?",
+    "pageTitle": "Sign in",
+    "password": "Password",
+    "phoneEmailFields": "john.doe@gmail.com / +628123456789",
+    "phoneEmailLabel": "Email or Phone Number",
+    "registerCustomer": "Registered customer",
+    "registerInformation": "If you represent a company, it is recommended that you use our company account area. By creating a company account, access to B2B features such as quotes, company user management, instant ordering, and more can be made available to all company members.",
+    "registerTitle" : "Register",
+    "success": "Login is success",
+    "switchPhone": "Login with phone number",
+    "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.": "Akun anda salah atau akun Anda dinonaktifkan untuk sementara. Harap tunggu dan coba lagi nanti."
+}

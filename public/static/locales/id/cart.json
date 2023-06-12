@@ -1,0 +1,64 @@
+{
+    "addItemToRequisitionFailed": "Gagal menambah item ke daftar permintaan",
+    "addItemToRequisitionList":"Tambah item ke daftar permintaan",
+    "addItemToRequisitionSuccess": "Berhasil menambah item ke daftar permintaan",
+    "addRequisition": "Tambahkan Keranjang Belanja ke Daftar Permintaan",
+    "addRequisitionFailed": "Gagal menambah daftar permintaan baru",
+    "addRequisitionSuccess": "Berhasil menambah daftar permintaan baru",
+    "addWishlistFailed": "Produk gagal ditambahkan ke wishlist",
+    "addWishlistSuccess": "Produk berhasil ditambahkan ke wishlist",
+    "addWishlistWithoutLogin": "Silahkan masuk untuk menambahkan produk ini ke wishlist",
+    "applyDiscount": "Terapkan Diskon",
+    "applyDiscountCode": "Gunakan Kode Diskon",
+    "attachInfo": "Dokumen yang diunggah harus dalam format JPG, JPEG, PNG, CSV atau PDF dengan ukuran maksimum {{ max_size }} KB",
+    "button": {
+        "addItem": "Tambah Item",
+        "cancel": "Batalkan",
+        "checkout": "Checkout",
+        "close": "Tutup",
+        "save": "Simpan",
+        "saveEdit": "Simpan"
+    },
+    "cancelDiscount": "Batalkan Diskon",
+    "confirmDelete": "Apakah anda yakin menghapus item ini?",
+    "continueShopping": "Lanjutkan Belanja",
+    "counter": {
+        "text": "item di keranjang"
+    },
+    "createNewRequisitionList": "Buat Daftar Permintaan Baru",
+    "createRequisition": "Tambah Daftar Permintaan Baru",
+    "createRequisitionList": "Buat Daftar Permintaan",
+    "crossell": {
+        "title": "Rekomendasi untuk Anda"
+    },
+    "deleteFailed": "Hapus item cart gagal",
+    "deleteSuccess": "Hapus item cart berhasil",
+    "description": "Deskripsi",
+    "discount": "Diskon",
+    "discountFlashSale": "Diskon Flash Sales",
+    "empty": {
+        "click": "Klik",
+        "here": "di sini",
+        "noItems": "Anda tidak memiliki barang di keranjang belanja Anda",
+        "text": "Keranjang belanja kosong",
+        "toContinueShopping": "untuk melanjutkan berbelanja."
+    },
+    "enterDiscountCode": "Masukkan kode diskon",
+    "oneItemAlready": "Item \"{{item}}\" sudah ada dalam daftar permintaan \"{{requisition}}.\"",
+    "oos": "Stok habis",
+    "pageTitle": "Keranjang Belanja",
+    "quantitiesCombined": "Qty untuk item yang identik akan digabungkan.",
+    "requisitionListName": "Nama Daftar Permintaan",
+    "someItemsAlready": "Beberapa item dalam Keranjang Belanja Anda sudah ada dalam daftar permintaan \"{{requisition}}\".",
+    "tax": "Pajak",
+    "totalOrder": "Total Order",
+    "updateFailed": "Update item cart gagal",
+    "updateShoppingCart": "Perbarui Keranjang Belanja",
+    "updateSuccess": "Update item cart berhasil",
+    "checkout": {
+        "errorMsgAddressDefault": "Tidak dapat mengakses halaman pembayaran, belum memilih alamat default.",
+        "errorMsgAddressApproved": "Tidak dapat mengakses halaman pembayaran, alamat belum disetujui",
+        "errorMsgGeneral": "Tidak dapat mengakses halaman pembayaran"
+    },
+    "name": "Keranjang {{counter}}"
+}

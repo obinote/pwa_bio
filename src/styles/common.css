@@ -1,0 +1,4 @@
+.MuiDialog-container .MuiButton-containedPrimary,
+.MuiDialog-container .MuiButton-containedPrimary:hover {
+    background-color: #f58732;
+}

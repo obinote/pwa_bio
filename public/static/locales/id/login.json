@@ -1,0 +1,22 @@
+{
+    "customerLogin": "Selamat Datang",
+    "emailFields": "john.doe@gmail.com",
+    "emailLabel": "Email",
+    "failed": "Gagal masuk",
+    "forgotPassword": "Lupa Kata Sandi Anda?",
+    "haveAccount": "Jika sudah punya akun",
+    "loginInformation": "Silahkan masuk dengan akun yang terdaftar",
+    "loginOtpInformation": " Jika kamu mempunyai akun terdaftar dengan nomor telepon, masuk dengan nomor telepon.",
+    "loginPhoneEmailInformation": "Jika Anda memiliki akun, masuk dengan email Anda.",
+    "newCustomer": "Belum memiliki akun?",
+    "notHaveAccount": "Belum mempunyai akun ?",
+    "pageTitle": "Masuk",
+    "password": "Kata Sandi",
+    "phoneEmailFields": "john.doe@gmail.com / +628123456789",
+    "phoneEmailLabel": "Email atau Nomor Telepon",
+    "registerCustomer": "Pelanggan terdaftar",
+    "registerInformation": "Jika Anda mewakili sebuah perusahaan, Anda disarankan menggunakan area akun perusahaan kami. Dengan membuat akun perusahan, akses terhadap fitur B2B seperti kuotasi, manajemen pengguna perusahan, pemesanan cepat, dan lainnya dapat disediakan untuk semua anggota perusahaan.",
+    "registerTitle" : "Daftar",
+    "success": "Masuk berhasil",
+    "switchPhone": "Login dengan nomor telepon"
+}

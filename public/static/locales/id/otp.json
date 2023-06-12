@@ -1,0 +1,21 @@
+{
+    "button": "Kirim OTP",
+    "choseMethod": "Pilih salah satu metode untuk mendapatkan kode verifikasi",
+    "invalid": "OTP tidak benar",
+    "label": "Masukan kode Anda",
+    "maxSend": "request pengiriman OTP Anda sudah maksimal",
+    "note": "Note : maks 3 kali kirim kode verifikasi",
+    "pageTitle": "Verifikasi Nomor Telepon",
+    "registerOtpFailed": "Nomor telepon {{phoneNumber}} telah terdaftar sebelumnya. Silahkan daftar dengan nomor lain.",
+    "registerOtpTooManyRetries": "Anda telah mengirim kode verifikasi otp terlalu banyak. Silahkan coba lagi nanti : {{phoneNumber}}",
+    "resend": "detik untuk mengirim kode kembali.",
+    "sendFailed": "OTP gagal terkirim",
+    "sendOtp": "Kirim OTP",
+    "sendSuccess": "OTP berhasil terkirim",
+    "sendTimes": "OTP sudah terkirim sebanyak",
+    "sms": "Via SMS ke ",
+    "time": "kali",
+    "title": "Verifikasi",
+    "valid": "OTP benar",
+    "wait": "Kode verfikasi sudah terkirim. Silahkan tunggu "
+  }

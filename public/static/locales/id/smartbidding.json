@@ -1,0 +1,51 @@
+{
+    "pageTitle": "Smart Bidding",
+    "editTitle": "Edit Bidding",
+    "action": "Aksi",
+    "detail": "Lihat Detail",
+    "edit": "Edit",
+    "notFound": "Kami tidak dapat menemukan data",
+    "success": "Lelang Berhasil Di Simpan",
+    "successDraft": "Lelang Berhasil Di Simpan & Di Terbitkan",
+    "list": {
+        "newList": "Buat List Baru",
+        "headerName": "Nama & Deskripsi",
+        "headerItem": "Item",
+        "headerStatus": "Status",
+        "headerCreate": "Dibuat",
+        "headerEnd": "Berakhir"
+    },
+    "create": {
+        "name": "Nama Lelang",
+        "desc": "Deskripsi",
+        "attach": "Lampirkan File",
+        "attachInfo": "Dokumen yang diunggah harus dalam format JPG, PNG atau PDF dengan ukuran maksimum {{ max_size}} KB",
+        "dueDate": "Waktu Lelang Berakhir",
+        "productName": "Nama Produk",
+        "qty": "Qty",
+        "addProduct": "Tambah Produk",
+        "draft": "Simpan sebagai Draft",
+        "save": "Simpan & Terbitkan",
+        "cancel": "Batal"
+    },
+    "details": {
+        "status": "Status",
+        "create": "Dibuat",
+        "expired": "Berakhir Pada",
+        "attach": "Lampiran Dokumen",
+        "notFound": "Kami tidak dapat menemukan data",
+        "item": "Item",
+        "qty": "Qty",
+        "quotation": "Penawaran Masuk",
+        "quotationName": "Nama Penawaran",
+        "quotationCreated": "Dibuat Tanggal",
+        "quotationBy": "Diajukan Oleh",
+        "quotationUpdate": "Update Terakhir",
+        "quotationTotal": "Total Quote",
+        "quotationStatus": "Status Penawaran",
+        "back": "Kembali",
+        "close": "Tutup Lelang",
+        "closeMessage":"Lelang berhasil di tutup",
+        "save": "Simpan & Terbitkan"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "aboutDistributor": "About Distributor",
+    "aboutUs": "About Us",
+    "cancel": "Cancel",
+    "close": "Close",
+    "filterAllReview": "All Review",
+    "filterRating": "Stars {{ rating }}",
+    "filterReview": "Filter Review",
+    "filterSort": "Sort",
+    "friday": "Friday",
+    "fromReview": "from {{total}} reviews",
+    "highlight": "Highlight",
+    "highlightProduct": "Highlight Product",
+    "images": "Images",
+    "information": "Information",
+    "modalErrorDesc": "Something went wrong when register to this seller. Try again later or contact our support service.",
+    "modalErrorTitle": "Failed register to this distributor",
+    "modalLoadingDesc": "Registering your account to this distributor",
+    "modalLoadingTitle": "Please Wait",
+    "modalRegisterDesc": "Your documents will be verified by this distributor.",
+    "modalRegisterTitle": "Register to {{ distributorName }}",
+    "modalSuccessDesc": "You will receive an email confirmation once your application has been verified.",
+    "modalSuccessTilte": "Your application has been successfully submitted",
+    "monday": "Monday",
+    "openingHours": "Opening hours",
+    "pageDesc": "We partner with various official distributors throughout Indonesia to bring quality and original products to you. <1>Register</1> your business, and start shopping from the following official distributors.",
+    "product": "Product",
+    "ratingForm": "From {{ rating }} rating",
+    "register": "Register",
+    "review": "Buyer Review",
+    "reviewEmpty": "No review data",
+    "saturday": "Saturday",
+    "searchBox": "Type distributor name",
+    "sort": {
+        "date": {
+            "asc": "Oldest",
+            "desc": "Newest"
+        },
+        "rating": {
+            "asc": "Lowest Rating",
+            "desc": "Highest Rating"
+        }
+    },
+    "statusNotRegistered": "You are not registered here",
+    "statusPending": "Your application is under verification",
+    "statusRegistered": "You are registered here",
+    "sunday": "Sunday",
+    "thursday": "Thursday",
+    "title": "Authorized Distributor",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "tabVoucher": "Promotion",
+    "promoPeriod":"Promotion Period",
+    "voucherEmpty":"Promotion not found",
+    "reviewItem": {
+        "edit": "Edit"
+    }
+}

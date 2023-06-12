@@ -1,0 +1,46 @@
+{
+    "emptyProductSearchResult": "Hasil pencarian Anda tidak ditemukan",
+    "etalase": "Etalase",
+    "allProduct": "Semua Produk",
+    "login": "Masuk",
+    "loginToShopping": "Masuk untuk dapat berbelanja",
+    "registerNow": "Daftar Sekarang",
+    "notRegistered": "Anda belum terdaftar sebagai pembeli di distributor ini",
+    "title": {
+        "color": "Warna",
+        "size": "Ukuran",
+        "shortFilter": "Urutkan",
+        "short": "Urutkan dari",
+        "search": "Pencarian ...",
+        "brand": "Brand",
+        "category": "Kategory",
+        "searchResult": "Hasil pencarian untuk",
+        "shoppingBasedOn": "Belanja berdasarkan",
+        "nowShoppingBasedOn": "Sekarang belanja berdasarkan",
+        "shoppingOption": "Opsi belanja",
+        "showApprovedDistributor": "Tampilkan hanya produk dari distributor yang telah Anda terapkan"
+    },
+    "button": {
+        "save": "Simpan",
+        "clear": "Bersihkan",
+        "clearAll": "Bersihkan semua"
+    },
+    "product": {
+        "title_product": "Nama produk",
+        "name": "Produk",
+        "nieExpired": "NIE Kadaluarsa"
+    },
+    "wishlist": {
+        "addWithoutLogin": "Silahkan masuk untuk menambahkan produk ini ke wishlist"
+    },
+    "flashSale": {
+        "days": "Hari",
+        "hours": "Jam",
+        "minutes": "Menit",
+        "seconds": "Detik",
+        "caption": "Flash Sale",
+        "endIn": "Akan Berakhir Dalam",
+        "expired": "Berakhir!",
+        "comingSoon": "Segera"
+    }
+}

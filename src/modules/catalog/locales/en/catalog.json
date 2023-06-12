@@ -1,0 +1,46 @@
+{
+    "emptyProductSearchResult": "We can't find products matching the selection.",
+    "etalase": "Etalase",
+    "allProduct": "All Product",
+    "login": "Login",
+    "loginToShopping": "Login to shopping",
+    "registerNow": "Register Now",
+    "notRegistered": "You are not registered yet on this distributor",
+    "title": {
+        "color": "Color",
+        "size": "Size",
+        "shortFilter": "Sort & Filter",
+        "short": "Sort by",
+        "search": "Search ...",
+        "brand": "Brand",
+        "category": "Category",
+        "searchResult": "Search result for",
+        "shoppingBasedOn": "Shopping based on",
+        "nowShoppingBasedOn": "Now shopping based on",
+        "shoppingOption": "Shopping option",
+        "showApprovedDistributor": "Only show products from applied distributor"
+    },
+    "button": {
+        "save": "Save",
+        "clear": "Clear",
+        "clearAll": "Clear All"
+    },
+    "product": {
+        "title_product": "Name product",
+        "name": "Product",
+        "nieExpired": "NIE Expired"
+    },
+    "wishlist": {
+        "addWithoutLogin": "Please login to add this item to your wishlist"
+    },
+    "flashSale": {
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds",
+        "caption": "Flash Sale",
+        "endIn": "Will End In",
+        "expired": "Ended!",
+        "comingSoon": "Coming Soon"
+    }
+}

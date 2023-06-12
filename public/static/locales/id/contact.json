@@ -1,0 +1,18 @@
+{
+    "addEmailByComa": "Tambahkan email dengan pemisah koma",
+    "anyQuestion": "Ada pertanyaan? Kami senang mendengarkan pertanyaan Anda.",
+    "ccRecipients": "Tembusan",
+    "contactUs": "Hubungi kami",
+    "email": "Email",
+    "failedSubmit": "Gagal mengirim pesan, silahkan periksa masukan atau koneksi Anda",
+    "fullName": "Nama lengkap",
+    "message": "Pesan",
+    "name": "Nama",
+    "nullCmsIdentifer": "Cms identifier belum di konfigurasi, coba lagi nanti",
+    "order": "Pesanan",
+    "pageTitle": "Kontak",
+    "requestType": "Jenis Permintaan",
+    "subject": "Subyek",
+    "successSubmit": "Sukses mengirim pesan",
+    "telephone": "Telepon"
+}

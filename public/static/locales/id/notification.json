@@ -1,0 +1,15 @@
+{
+    "notification": "Pemberitahuan",
+    "empty": "Anda tidak mempunyai pemberitahuan",
+    "not_found": "Data tidak di temukan",
+    "back": "Kembali",
+    "notificationList": {
+        "pageTitle": "Daftar pemberitahuan",
+        "time": "Waktu",
+        "noTicket": "No Tiket",
+        "subject": "Subyek"
+    },
+    "notificationData": {
+        "pageTitle": "Data pemberitahuan"
+    }
+}

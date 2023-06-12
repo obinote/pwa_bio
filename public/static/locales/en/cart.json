@@ -1,0 +1,64 @@
+{
+    "addItemToRequisitionFailed": "Failed add item to requisition list",
+    "addItemToRequisitionList":"Add item to requisition list",
+    "addItemToRequisitionSuccess": "Successfully add item to requisition",
+    "addRequisition": "Add Shopping Cart to Requisition List",
+    "addRequisitionFailed": "Failed add new requisition list",
+    "addRequisitionSuccess": "Successfully add new requisition list",
+    "addWishlistFailed": "Failed on adding item into wishlist",
+    "addWishlistSuccess": "Item has been added into your wishlist",
+    "addWishlistWithoutLogin": "Please login to add this item to your wishlist",
+    "applyDiscount": "Apply Discount",
+    "applyDiscountCode": "Apply Discount Code",
+    "attachInfo": "Uploaded documents must be in JPG, JPEG, PNG, CSV or PDF format with a maximum size of {{ max_size }} KB",
+    "button": {
+        "addItem": "Add Item",
+        "cancel": "Cancel",
+        "checkout": "Checkout",
+        "close": "Close",
+        "save": "Save",
+        "saveEdit": "Save and continue"
+    },
+    "cancelDiscount": "Cancel Discount",
+    "confirmDelete": "Are you sure want to delete this item?",
+    "continueShopping": "Continue Shopping",
+    "counter": {
+        "text": "items in your cart"
+    },
+    "createNewRequisitionList": "Create New Requisition List",
+    "createRequisition": "Create New Requisition List",
+    "createRequisitionList": "Create Requisition List",
+    "crossell": {
+        "title": "Recommended for You"
+    },
+    "deleteFailed": "Delete cart item failed",
+    "deleteSuccess": "Delete cart item success",
+    "description": "Description",
+    "discount": "Discount",
+    "discountFlashSale": "Flash Sales Discount",
+    "empty": {
+        "click": "Click",
+        "here": "here",
+        "noItems": "You have no items in your shopping cart.",
+        "text": "Your cart is empty",
+        "toContinueShopping": "to continue shopping."
+    },
+    "enterDiscountCode": "Enter discount code",
+    "oneItemAlready": "The item \"{{item}}\" is already in the \"{{requisition}}\" requisition list.",
+    "oos": "Out of stock",
+    "pageTitle": "Shopping Cart",
+    "quantitiesCombined": "Quantities for identical items will be combined.",
+    "requisitionListName": "Requisition List Name",
+    "someItemsAlready": "Some items in your Shopping Cart are already in the \"{{requisition}}\" requisition list",
+    "tax": "Tax",
+    "totalOrder": "Total Order",
+    "updateFailed": "Update cart item failed",
+    "updateShoppingCart": "Update Shopping Cart",
+    "updateSuccess": "Update cart item success",
+    "checkout": {
+        "errorMsgAddressDefault": "Unable access checkout page, have not chosen a default address.",
+        "errorMsgAddressApproved": "Unable access checkout page, address not approved",
+        "errorMsgGeneral": "Unable access checkout page"
+    },
+    "name": "Cart {{counter}}"
+}

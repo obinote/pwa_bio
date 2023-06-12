@@ -1,0 +1,15 @@
+{
+    "notification": "Notification",
+    "empty": "You don't have any notifications",
+    "not_found": "Data not found",
+    "back": "Back",
+    "notificationList": {
+        "pageTitle": "Notification list",
+        "time": "Time",
+        "noTicket": "No Ticket",
+        "subject": "Subject"
+    },
+    "notificationData": {
+        "pageTitle": "Notification data"
+    }
+}

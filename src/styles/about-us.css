@@ -1,0 +1,196 @@
+/**
+    for all mode - start
+*/
+/* top */
+.section-about-banner{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-position: left top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    min-height: 322px;
+    padding: 0;
+}
+@media(max-width: 767px) {
+    .section-about-banner{
+        min-height: 200px !important;
+    }
+}
+.section-about-banner .row-full-width-inner {
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1280px;
+    width: 100%;
+}
+.section-about-banner .row-full-width-inner * {
+    color: #fff;
+    margin: 0 0 10px;
+}
+.section-about-banner .row-full-width-inner h2 {
+    text-align: center;
+    line-height: 1.1;
+}
+.section-about-banner .row-full-width-inner p {
+    font-weight: 700;
+}
+
+/* center */
+.section-secondary {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #f2f9ff;
+    background-position: left top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    min-height: 164px;
+    padding: 40px 22px;
+}
+@media(min-width: 768px) and (max-width: 1023px) {
+    .section-about-description.has-illustration .pagebuilder-column-group {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section-about-description.has-illustration .pagebuilder-column {
+        width: 33.333% !important;
+    }
+}
+@media(max-width: 767px) {
+    .section-secondary {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+    }
+    .section-secondary p {
+        line-height: 1.7 !important;
+    }
+    .section-about-description.has-illustration .pagebuilder-column {
+        width: 100% !important;
+    }
+}
+.section-secondary .row-full-width-inner {
+    max-width: 840px !important;
+    margin: auto;
+}
+.section-secondary .row-full-width-inner p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #414048;
+    text-align: center;
+    line-height: 20px;
+    margin: 0;
+}
+
+/* bottom */
+.section-about-description .pagebuilder-column img{
+    max-width: 100%;
+    height: auto;
+}
+/**
+    for all mode - end
+*/
+
+
+/**
+ responsive mobile mode 
+*/
+@media (max-width: 768px){
+    /* top */
+    .section-about-banner{
+        background-image: var(--mobile-image);
+    }
+    .section-about-banner .row-full-width-inner h2 {
+        font-size: 40px;
+    }
+    .section-about-banner .row-full-width-inner p {
+        font-size: 14px;
+    }
+
+    /* center*/
+    .section-secondary .row-full-width-inner p {
+        font-size: 14px;
+    }
+
+    /* bottom */
+    .section-about-description .pagebuilder-column-group{
+        display: flex;
+        flex-flow: column;
+    }
+    .section-about-description .pagebuilder-column {
+        justify-content: center;
+    }
+    .section-about-description .pagebuilder-column figure{
+        display: flex;
+        justify-content: center;
+    }
+    .pagebuilder-mobile-hidden {
+        display: none !important;
+    }
+    
+}
+
+/**
+ responsive desktop mode
+*/
+@media (min-width: 769px){
+    /* top */
+    .section-about-banner{
+        background-image: var(--desktop-image);
+    }
+    .section-about-banner .row-full-width-inner h2 {
+        font-size: 50px;
+    }
+    .section-about-banner .row-full-width-inner p {
+        font-size: 18px;
+    }
+
+    /* bottom */
+    .section-about-description{
+        justify-content: flex-start;
+        padding: 40px 0;
+        display: flex;
+        flex-direction: column;
+        background-position: left top;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        box-sizing: border-box;
+        max-width: 1280px;
+        margin: auto;
+    }
+    .section-about-description .pagebuilder-column-group{
+        display: flex;
+        flex-flow: row;
+    }
+
+    .section-about-description .pagebuilder-column {
+        justify-content: center;
+        width: calc(100% / 6);
+        padding-left: 20px;
+        padding-right: 20px;
+        align-self: stretch;
+    
+        display: flex;
+        flex-direction: column;
+        background-position: left top;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+    }
+
+    .section-about-description .illustration-3{
+        width: calc(100% / 3);
+    }
+
+    .section-about-description .pagebuilder-column figure{
+        margin: 0;
+    }
+    
+    .pagebuilder-mobile-only {
+        display: none !important;
+    }
+}

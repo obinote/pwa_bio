@@ -1,0 +1,58 @@
+{
+    "aboutDistributor": "Tentang Distributor",
+    "aboutUs": "Tentang Kami",
+    "cancel": "Batal",
+    "close": "Tutup",
+    "filterAllReview": "Semua Ulasan",
+    "filterRating": "Bintang {{ rating }}",
+    "filterReview": "Filter Ulasan",
+    "filterSort": "Urutkan",
+    "friday": "Jum'at",
+    "fromReview": "dari {{total}} penilaian",
+    "highlight": "Highlight",
+    "highlightProduct": "Produk Highlight",
+    "images": "Foto",
+    "information": "Informasi",
+    "modalErrorDesc": "Terjadi kesalahan saat mendaftar ke distributor ini. Coba lagi nanti atau hubungi layanan dukungan kami.",
+    "modalErrorTitle": "Gagal mendaftar ke distributor ini",
+    "modalLoadingDesc": "Mendaftarkan akun Anda ke distributor",
+    "modalLoadingTitle": "Mohon Menunggu",
+    "modalRegisterDesc": "Dokumen Anda akan diverifikasi oleh distributor ini.",
+    "modalRegisterTitle": "Daftar ke {{ distributorName }}",
+    "modalSuccessDesc": "Anda akan menerima email konfirmasi setelah aplikasi Anda diverifikasi.",
+    "modalSuccessTilte": "Aplikasi Anda telah berhasil dikirim",
+    "monday": "Senin",
+    "openingHours": "Jam buka toko",
+    "pageDesc": "Kami bermitra dengan berbagai distributor resmi di seluruh Indonesia untuk menghadirkan produk-produk berkualitas dan original kepada anda. Segera <1>daftarkan</1> bisnis anda, dan mulai berbelanja dari distributor resmi berikut ini.",
+    "product": "Produk",
+    "ratingForm": "Dari {{ rating }} penilaian",
+    "register": "daftarkan",
+    "review": "Ulasan Pembeli",
+    "reviewEmpty": "Belum memiliki data ulasan",
+    "saturday": "Sabtu",
+    "searchBox": "Ketik nama distributor",
+    "sort": {
+        "date": {
+            "asc": "Terlama",
+            "desc": "Terbaru"
+        },
+        "rating": {
+            "asc": "Rating Terendah",
+            "desc": "Rating Tertinggi"
+        }
+    },
+    "statusNotRegistered": "Anda tidak terdaftar di sini",
+    "statusPending": "Aplikasi Anda sedang dalam verifikasi",
+    "statusRegistered": "Anda terdaftar di sini",
+    "sunday": "Minggu",
+    "thursday": "Kamis",
+    "title": "Distributor Resmi",
+    "tuesday": "Selasa",
+    "wednesday": "Rabu",
+    "tabVoucher": "Promo",
+    "promoPeriod":"Periode Promosi",
+    "voucherEmpty":"Promosi Tidak di Temukan",
+    "reviewItem": {
+        "edit": "Ubah"
+    }
+}

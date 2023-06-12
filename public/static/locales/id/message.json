@@ -1,0 +1,15 @@
+{
+    "A customer with the same email address already exists in an associated website.": "Pelanggan dengan alamat email yang sama sudah ada.",
+    "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.": "Akun anda salah atau akun Anda dinonaktifkan untuk sementara. Harap tunggu dan coba lagi nanti.",
+    "Customer not authorized create quote.": "Pelanggan belum mendapatkan izin untuk membuat penawaran.",
+    "Your file might be a threat.": "File Anda kemungkinan terinfeksi.",
+    "Something went wrong.": "Terjadi kesalahan.",
+    "Could not find a quote with the specified UID.": "Tidak dapat menemukan penawaran dengan UID yang ditentukan.",
+    "The quote has a status that does not allow it to be closed." : "Penawaran memiliki status yang tidak memungkinkan untuk ditutup.",
+    "The quote has a status that does not allow it to be deleted." : "Penawaran memiliki status yang tidak memungkinkan untuk dihapus.",
+    "Billing already used!": "Tagihan telah digunakan!",
+    "The requested qty exceeds the maximum qty allowed in shopping cart" : "Jumlah yang diminta melebihi jumlah maksimum yang diperbolehkan dalam keranjang belanja",
+    "company_group_id is not valid": "Input yang diberikan tidak valid.",
+    "Cannot add product. NIE Expired.": "Tidak dapat menambah product. NIE Expired"
+
+}

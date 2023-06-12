@@ -1,0 +1,18 @@
+{
+    "addEmailByComa": "Add emails separated by commas",
+    "anyQuestion": "Have any question? We'd love to hear from you.",
+    "ccRecipients": "CC Recipients",
+    "contactUs": "Contact Us",
+    "email": "Email",
+    "failedSubmit": "Failed submit message, please check your input or connection",
+    "fullName": "Full name",
+    "message": "Message",
+    "name": "Name",
+    "nullCmsIdentifer": "Cms identifier is not configure, try again later",
+    "order": "Order",
+    "pageTitle": "Contact",
+    "requestType": "Request Type",
+    "subject": "Subject",
+    "successSubmit": "Sucess submit message",
+    "telephone": "Telephone"
+}

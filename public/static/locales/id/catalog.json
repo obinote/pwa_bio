@@ -1,0 +1,69 @@
+{
+    "allProduct": "Semua Produk",
+    "button": {
+        "clear": "Bersihkan",
+        "clearAll": "Bersihkan semua",
+        "save": "Simpan"
+    },
+    "backButton": "Kembali",
+    "category":{
+        "category": "Kategori"
+    },
+    "emptyProductSearchResult": "Hasil pencarian Anda tidak ditemukan",
+    "etalase": "Etalase",
+    "flashSale": {
+        "caption": "Flash Sale",
+        "comingSoon": "Segera",
+        "days": "Hari",
+        "endIn": "Akan Berakhir Dalam",
+        "expired": "Berakhir!",
+        "hours": "Jam",
+        "minutes": "Menit",
+        "seconds": "Detik"
+    },
+    "infoResult": "Coba kata kunci lain atau cek produk rekomendasi di bawah.",
+    "login": "Masuk",
+    "loginToShopping": "Masuk untuk dapat berbelanja",
+    "notRegistered": "Anda belum terdaftar sebagai pembeli di di stributor ini",
+    "product": {
+        "companyRegister": "Daftar untuk dapat berbelanja",
+        "name": "Produk",
+        "nieExpired": "NIE Kadaluarsa",
+        "nieValidTo": "NIE Kadaluarsa",
+        "title_product": "Nama produk"
+    },
+    "recommendation": {
+        "title": "Produk Rekomendasi"
+    },
+    "registerNow": "Daftar Sekarang",
+    "registerToShopping": "Anda belum terdaftar sebagai pembeli di distributor ini",
+    "searchBox": "Cari Produk di {{company_name}}",
+    "sort": {
+        "alphabet":{
+            "asc": "Abjad (A ke Z)",
+            "desc": "Abjad (Z ke A)"
+        },
+        "price":{
+            "asc": "Harga (Rendah ke Tinggi)",
+            "desc": "Harga (Tinggi ke Rendah)"
+        },
+        "relevance": "Paling Sesuai"
+    },
+    "title": {
+        "brand": "Brand",
+        "category": "Kategory",
+        "color": "Warna",
+        "nowShoppingBasedOn": "Sekarang belanja berdasarkan",
+        "search": "Pencarian ...",
+        "searchResult": "Hasil pencarian untuk",
+        "shoppingBasedOn": "Opsi Belanja",
+        "shoppingOption": "Filter",
+        "short": "Urutkan dari",
+        "shortFilter": "Urutkan",
+        "showApprovedDistributor": "Tampilkan hanya produk dari distributor yang telah Anda terapkan",
+        "size": "Ukuran"
+    },
+    "wishlist": {
+        "addWithoutLogin": "Silahkan masuk untuk menambahkan produk ini ke wishlist"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "addRateFailed": "Upload your review is failed",
+    "addRateSuccess": "Thanks for review this product",
+    "addToCart" : "Add to shopping bag",
+    "ar":{
+        "backToProduct": "Back to Product",
+        "button": "View in your room",
+        "caption": "Use your mobile phone for better experience"
+    },
+    "attribute":{
+        "manufacture": "Manufacture",
+        "noNie": "No. NIE",
+        "validNie": "Valid to NIE"
+    },
+    "bundleProduct": {
+        "buy": "Buy",
+        "free": "FREE",
+        "get": "get",
+        "plusProduct": " + other product at a minimum ",
+        "total": "Total"
+    },
+    "chatDistributor": "Chat Distributor",
+    "colorOption" : "Color option",
+    "customerReview" : "Customer reviews",
+    "customizeAdd": "Customize and Add toCart",
+    "customizableOptions": {
+        "file": {
+            "extentionAccept": "Compatible file extensions to upload: ",
+            "maxImageHeight": "Maximum image height: ",
+            "maxImageWidth": "Maximum image width: "
+        }
+    },
+    "detail": "Product Detail",
+    "emptyProductSearchResult": "We can't find products matching the selection.",
+    "failedAddCart": "Failed on adding item into your bag",
+    "failedQtyZero": "Please add at least 1 product item",
+    "goToProduct": "Go To Product",
+    "more_info": "More Information",
+    "moreReview" : "Read more reviews",
+    "nickname" : "Nickname",
+    "priceTiers": "Buy {{priceTiers.quantity}} for {{priceTiers.currency}}{{priceTiers.price}} each and save {{priceTiers.discount}}%",
+    "priceTiersAmount": "Get {{priceTiers.amount}} off on each item with a minimum purchase of {{priceTiers.quantity}} or more",
+    "priceTiersCustomerGroupAmount": "Get {{priceTiers.amount}} off on each item with a minimum purchase of {{priceTiers.quantity}} or more for {{priceTiers.customer_group}} customer group",
+    "priceTiersCustomerGroupPercent": "Get {{priceTiers.percent}}% off on each item with a minimum purchase of {{priceTiers.quantity}} or more for {{priceTiers.customer_group}} customer group",
+    "priceTiersPercent": "Get {{priceTiers.percent}}% off on each item with a minimum purchase of {{priceTiers.quantity}} or more",
+    "productNotAvailable": "We don’t support this product type yet",
+    "quantity": "Quantity",
+    "rate" : "Rate",
+    "recomendedTitle" : "Recommended for your",
+    "requisition":{
+        "addItemRequisitionError": "Fail add new requisition list",
+        "addItemRequisitionSuccess": "Successfully add new requisition list",
+        "addItemToRequisitionFailed": "Failed add item to requisition list",
+        "addItemToRequisitionList":"Add item to requisition list",
+        "addItemToRequisitionSuccess": "Successfully add item to requisition",
+        "addRequisitionFailed": "Failed add new requisition list",
+        "addRequisitionSuccess": "Successfully add new requisition list",
+        "createNewRequisitionList": "Create New Requisition List",
+        "createRequisitionList": "Create Requisition List",
+        "description": "Description",
+        "modalButtonCancelRequisition" : "Batalkan",
+        "modalButtonSubmitRequisition" : "Simpan",
+        "modalDescriptionRequisition" : "Description",
+        "modalNameRequisition" : "Requisition List Name",
+        "oneItemAlready": "The item \"{{item}}\" is already in the \"{{requisition}}\" requisition list.",
+        "quantitiesCombined": "Quantities for identical items will be combined.",
+        "requisitionListName": "Requisition List Name",
+        "someItemsAlready": "Some items in your Shopping Cart are already in the \"{{requisition}}\" requisition list"
+    },
+    "requisitionList": "Requisition List",
+    "return_policy": "Return Policy",
+    "review" : "Review",
+    "shareTitle" : "Share",
+    "shipping_eta":{
+        "day": "day",
+        "estimate_courrier": "Shipping with",
+        "estimate_time_sameday": "today or tomorrow",
+        "estimate_time": "Estimated delivery",
+        "hour": "hour",
+        "other_shipping": "Other delivery method",
+        "title": "Estimated Delivery",
+        "inHouseDays": " days",
+        "inHouseDay": " day"
+    },
+    "stock":{
+        "IN_STOCK": "In Stock",
+        "OUT_STOCK": "Out of Stock"
+    },
+    "submitReview" : "Submit review" ,
+    "successAddCart": "Item has been added into your bag",
+    "title" : "Title",
+    "upsellTitle": "You might also like",
+    "validate": {
+        "detail": "Detail is required",
+        "fieldRequired": "This field is required",
+        "maxCharacters": "Maximum $ characters",
+        "nickname": "Nickname is required",
+        "rating": "Rating is required",
+        "title": "Title is required"
+    },
+    "viewGuide" : "view site guide",
+    "wishlist": "Add to wishlist",
+    "writeReview" : "Write a review",
+    "yourCustomization": "Your Customization"
+}

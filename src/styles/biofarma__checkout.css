@@ -1,0 +1,291 @@
+* {
+	font-family: 'Roboto';
+}
+#checkout .nopadding {
+	padding: 0;
+}
+#desktopSummary{
+	background-color: #F2F9FF;
+}
+.MuiRadio-root.Mui-checked{
+	color: #F58732 !important;
+}
+#couponTextfield{
+	border: 1px solid #CBCDD1;
+    border-radius: 5px;
+    padding: 10px 75px 10px 15px;
+	height: 40px;
+	box-sizing: border-box;
+}
+#coupon .MuiInput-underline:after, .MuiInput-underline:before {
+	display: none;
+}
+
+#checkout #coupon > div {
+	width: 100% !important;
+    max-width: unset;
+	align-items: flex-start;
+}
+
+#checkout #order-comment  label {
+	display: none;
+}
+
+#checkout #order-comment > div {
+	max-height: inherit;
+}
+
+#couponTextfield::-webkit-input-placeholder { /* Edge */
+  color: #7B9AAF;
+}
+
+#couponTextfield:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #7B9AAF;
+}
+.promolabel {
+	padding: 0 10px;
+}
+#couponTextfield::placeholder {
+  color: #7B9AAF;
+}
+#coupon button{
+	background: transparent !important;
+	color: #F58732 !important;
+	position: absolute;
+    right: 3px;
+    top: 0;
+	box-shadow: none;
+	border: 0;
+	height: 40px;
+}
+#coupon button span p{
+	color: #F58732 !important;
+	font-size: 14px;
+}
+#coupon label + .MuiInput-formControl{
+	margin-top: 0;
+}
+#coupon .MuiFormControl-fullWidth{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+h1.title-checkout{
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+#header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#header img {
+    cursor: pointer;
+    max-height: 125px;
+}
+.quantity-margin{
+	margin-right: 5px;
+}
+.link-backtostore {
+    cursor: pointer;
+}
+
+header > .hidden-desktop > div {
+	display: none;
+}
+
+#checkout .MuiAccordionSummary-content svg {
+	transform: rotate(180deg);
+}
+
+#checkout .MuiAccordionSummary-content.Mui-expanded svg {
+	transform: rotate(180deg);
+}
+
+footer .copyright {
+	background: #FFFFFF;
+	color: #B7B7B7;
+	font-size: 12px;
+	max-width: 1280px;
+	margin: auto;
+	padding: 30px 10px
+}
+
+footer .copyright span {
+	color: #7B9AAF;
+}
+
+.checkout-checkbox {
+	padding: 0 !important;
+}
+
+.checkout-checkbox.MuiCheckbox-colorPrimary.Mui-checked svg {
+	fill: #F58732;
+}
+
+.checkout-checkbox.MuiCheckbox-colorPrimary svg {
+	fill: #CBCDD1;
+}
+
+#checkout .MuiButton-contained.Mui-disabled {
+	background: #F2F9FF;
+}
+
+#checkout .MuiButton-containedPrimary span {
+	color: #FFFFFF;
+}
+
+#checkout .MuiButton-contained.Mui-disabled span {
+	color: #D5EAFB;
+}
+
+#checkout .form-checkout {
+	margin-left: 0;
+	margin-right: 0;
+	align-items: start;
+}
+
+#checkout .no-margin {
+	margin: 0 5px;
+}
+
+#checkout .referral-section {
+	margin: 8px 5px 0 5px;
+}
+#checkout .referral-section input {
+	border: 1px solid #D5EAFB;
+	border-radius: 5px;
+	height: 40px;
+	box-sizing: border-box;
+	padding: 5px 10px !important;
+	margin-top: 5px;
+}
+#checkout .referral-section .MuiAutocomplete-inputRoot {
+	padding: 0;
+}
+#checkout .referral-section > div {
+	margin-bottom: 15px !important;
+}
+
+#checkout .referral-section .MuiFormLabel-root {
+	font-size: 14px !important;
+    font-weight: bold !important;
+    color: #000;
+    transform: unset;
+}
+
+#checkoutPayment #checkoutRadioItem img {
+	max-height: 36px;
+}
+.expandtax {
+	vertical-align: bottom;
+}
+
+.sigCanvas {
+	width: 100%;
+	border-bottom: 0px solid #000;
+}
+
+.signatureDelete {
+    background: none !important;
+    box-shadow: none !important;
+    border-radius: 5px !important;
+    padding: 0 !important;
+}
+.signatureDelete span.MuiButton-label {
+	justify-content: right;
+	text-transform: capitalize;
+	font-weight: normal;
+}
+
+#signature-area .signatureAction {
+	width: auto;
+    margin: 0;
+	margin-top: -40px;
+	display: inline-flex;
+    float: right;
+}
+
+#signature-area .signatureAction button {
+	float: right;
+	color: #F58732;
+}
+
+#signature-area .signatureName {
+	padding-top: 15px;
+    border-top: 1px solid #000000;
+    margin-top: 5px;
+}
+
+#signature-area .signatureName > * {
+	width: 100%;
+}
+
+#signature-area .signatureName input {
+	border-color: #D5EAFB;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+#signature-area .signatureName input::placeholder {
+	color: #7B9AAF;
+	opacity: 1;
+}
+
+input[type="file"].upload-button::-webkit-file-upload-button {
+	background: #E7F3FF;
+	color: #414048;
+	height: 26px;
+	min-width: 80px;
+	border: 0;
+    border-radius: 5px;
+    width: 100px;
+    margin-right: 15px;
+	margin-bottom: 5px;
+	cursor: pointer;
+}
+
+@media only screen and (min-width: 767px) {
+	h1.title-checkout{
+		font-size: 60px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	h1.title-checkout{
+		font-size: 30px;
+	}
+	#header {
+	    height: 100px;
+	    align-items: center;
+	}
+	#header img{
+		width: 160px;
+	}
+	#coupon {
+		padding: 0 5px;
+	}
+	#coupon > p {
+		margin: 5px 0;
+	}
+	.MuiAccordionSummary-content .MuiSvgIcon-root {
+		color: #F58732;
+	}
+	#bottomSummary .MuiButton-label div{
+		width: 24px !important;
+	}
+
+	#addressWrapper {
+		flex-wrap: wrap;
+	}
+	#addressWrapper > .makeStyles-addressText-23 {
+		flex: 50%
+	}
+	#addressWrapper > .manageAddress {
+		flex: 100%
+	}
+	#signature-area {
+		margin-bottom: 20px;
+	}
+}

@@ -1,0 +1,93 @@
+User-agent: MJ12bot
+User-agent: SemrushBot
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: ZoominfoBot
+User-agent: um-LN
+User-agent: MTRobot
+User-agent: SafeDNSBot
+User-agent: Bytespider
+User-agent: bitlybot
+User-agent: Barkrowle
+User-agent: coccocbot-image
+User-agent: PetalBot
+User-agent: DotBot
+User-agent: BLEXBot
+User-agent: AspiegelBot
+User-agent: BaiduSpider
+User-agent: trovitBot
+User-agent: Mail.RU_Bot
+User-agent: SeznamBot
+User-agent: YisouSpider
+User-agent: zh-CN
+User-agent: Slackbot
+User-agent: Slackbot-LinkExpanding
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-Delay: 60
+
+User-agent: Googlebot
+Crawl-Delay: 60
+
+User-agent: Googlebot-Image
+Crawl-Delay: 60
+
+User-agent: Googlebot-Mobile
+Crawl-Delay: 60
+
+User-agent: AdsBot-Google-Mobile
+Crawl-Delay: 60
+
+User-agent: AdsBot-Google
+Crawl-Delay: 60
+
+User-agent: Bingbot
+Crawl-Delay: 60
+
+User-agent: *
+Disallow: /graphql
+Disallow: /index.php/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /wishlist/
+Disallow: /admin/
+Disallow: /review/product/
+Disallow: /sendfriend/
+Disallow: /enable-cookies/
+Disallow: /LICENSE.txt
+Disallow: /LICENSE.html
+Disallow: /skin/
+Disallow: /js/
+Disallow: /directory/
+# Stop crawling user account and checkout pages by search engine robot
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+# Blocking native catalog and search pages
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+
+# Blocking CMS directories
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pub/
+# Blocking duplicate content
+Disallow: /tag/
+Disallow: /review/
+
+# Blocking UTM
+Disallow: /*?utm_
+Disallow: /*?&utm_
+
+Host: https://medbiz.id/
+# Sitemap
+Sitemap: https://medbiz.id/sitemap.xml

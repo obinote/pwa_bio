@@ -1,0 +1,51 @@
+{
+    "pageTitle": "Smart Bidding",
+    "editTitle": "Bidding Edit",
+    "action": "Action",
+    "detail": "Details",
+    "edit": "Edit",
+    "notFound": "Data Not Found",
+    "success": "Bidding has been saved",
+    "successDraft": "Bidding has been saved as a draft",
+    "list": {
+        "newList": "Create New List",
+        "headerName": "Name & Description",
+        "headerItem": "Item",
+        "headerStatus": "Status",
+        "headerCreate": "Create",
+        "headerEnd": "Expired"
+    },
+    "create": {
+        "name": "Bidding Name",
+        "desc": "Description",
+        "attach": "File Attachments",
+        "attachInfo": "Uploaded documents must be in JPG, PNG or PDF format with a maximum size of {{ max_size }} KB",
+        "dueDate": "Bidding Due Date",
+        "productName": "Product Name",
+        "qty": "Qty",
+        "addProduct": "Add Product",
+        "draft": "Save as Draft",
+        "save": "Save & Publish",
+        "cancel": "Cancel"
+    },
+    "details": {
+        "status": "Status",
+        "create": "Created",
+        "expired": "Expired Date",
+        "attach": "Doccuments Attachment",
+        "notFound": "There are no offers from the seller yet",
+        "item": "Item",
+        "qty": "Qty",
+        "quotation": "Quotation",
+        "quotationName": "Quote Name",
+        "quotationCreated": "Created At",
+        "quotationBy": "Submitted By",
+        "quotationUpdate": "Last Update",
+        "quotationTotal": "Quote Total",
+        "quotationStatus": "Status",
+        "back": "Back",
+        "close": "Close Bidding",
+        "closeMessage":"Bidding has been closed",
+        "save": "Save & Publish"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "addRateFailed": "Gagal mengirim ulasan",
+    "addRateSuccess": "Terima kasih atas ulasannya.",
+    "addToCart" : "Tambah ke keranjang",
+    "ar":{
+        "backToProduct": "Kembali ke Produk",
+        "button": "Lihat di Ruangan Anda",
+        "caption": "Untuk pengalaman yang lebih baik, silahkan buka dari perangkat ponsel anda"
+    },
+    "attribute":{
+        "manufacture": "Manufaktur",
+        "noNie": "No. NIE",
+        "validNie": "NIE Berlaku Hingga"
+    },
+    "bundleProduct": {
+        "buy": "Beli",
+        "free": "FREE",
+        "get": "dapat",
+        "plusProduct": " + product lainnya minimal ",
+        "total": "Total"
+    },
+    "chatDistributor": "Chat Distributor",
+    "colorOption" : "Pilihan warna",
+    "customerReview" : "Ulasan pelanggan",
+    "customizeAdd": "Sesuaikan dan Tambahkan ke Keranjang",
+    "customizableOptions": {
+        "file": {
+            "extentionAccept": "Ekstensi file yang cocok: ",
+            "maxImageHeight": "Maksimal lebar gambar: ",
+            "maxImageWidth": "Maksimal panjang gambar: "
+        }
+    },
+    "detail": "Detail Produk",
+    "emptyProductSearchResult": "Kami tidak dapat menemukan produk yang sesuai dengan pilihan.",
+    "failedAddCart": "Gagal menambahkan produk ke keranjang",
+    "failedQtyZero": "silahkan tambahan minimal 1 item produk",
+    "goToProduct": "Pergi ke product",
+    "more_info": "Informasi Tambahan",
+    "moreReview" : "Lihat ulasan lainnya",
+    "nickname" : "Nama panggilan",
+    "priceTiers": "Beli {{priceTiers.quantity}} seharga {{priceTiers.currency}}{{priceTiers.price}} masing-masing dan hemat {{priceTiers.discount}}%",
+    "priceTiersAmount": "Dapatkan diskon {{priceTiers.amount}} untuk setiap item dengan jumlah pembelian minimum {{priceTiers.quantity}} atau lebih",
+    "priceTiersCustomerGroupAmount": "Dapatkan diskon {{priceTiers.amount}} untuk setiap item dengan jumlah pembelian minimum {{priceTiers.quantity}} atau lebih untuk grup pelanggan {{priceTiers.customer_group}}",
+    "priceTiersCustomerGroupPercent": "Dapatkan diskon {{priceTiers.percent}}% untuk setiap item dengan jumlah pembelian minimum {{priceTiers.quantity}} atau lebih untuk grup pelanggan {{priceTiers.customer_group}}",
+    "priceTiersPercent": "Dapatkan diskon {{priceTiers.percent}}% untuk setiap item dengan jumlah pembelian minimum {{priceTiers.quantity}} atau lebih",
+    "productNotAvailable": "Sekarang kami belum support untuk tipe produk ini",
+    "quantity": "Jumlah",
+    "rate" : "Rating",
+    "recomendedTitle" : "Di rekomendasikan untuk Anda",
+    "requisition":{
+        "addItemRequisitionError": "Gagal menambahkan item pada daftar permintaan",
+        "addItemRequisitionSuccess": "Berhasil menambahkan item pada daftar permintaan",
+        "addItemToRequisitionFailed": "Gagal menambah item ke daftar permintaan",
+        "addItemToRequisitionList":"Tambah item ke daftar permintaan",
+        "addItemToRequisitionSuccess": "Berhasil menambah item ke daftar permintaan",
+        "addRequisitionFailed": "Gagal menambah daftar permintaan baru",
+        "addRequisitionSuccess": "Berhasil menambah daftar permintaan baru",
+        "createNewRequisitionList": "Buat Daftar Permintaan Baru",
+        "createRequisitionList": "Buat Daftar Permintaan",
+        "description": "Deskripsi",
+        "modalButtonCancelRequisition" : "Batalkan",
+        "modalButtonSubmitRequisition" : "Simpan",
+        "modalDescriptionRequisition" : "Deskripsi",
+        "modalNameRequisition" : "Nama Permintaan",
+        "oneItemAlready": "Item \"{{item}}\" sudah ada dalam daftar permintaan \"{{requisition}}.\"",
+        "quantitiesCombined": "Qty untuk item yang identik akan digabungkan.",
+        "requisitionListName": "Nama Daftar Permintaan",
+        "someItemsAlready": "Beberapa item dalam Keranjang Belanja Anda sudah ada dalam daftar permintaan \"{{requisition}}\"."
+    },
+    "requisitionList": "Tambah ke Daftar Permintaan",
+    "return_policy": "Ketentuan Refund",
+    "review" : "Ulasan",
+    "shareTitle" : "Bagikan",
+    "shipping_eta":{
+        "day": "hari",
+        "estimate_courrier": "Estimasi Pengiriman dengan",
+        "estimate_time_sameday": "hari ini atau besok",
+        "estimate_time": "Estimasi Waktu Pengiriman",
+        "hour": "jam",
+        "other_shipping": "Lihat Pilihan Pengiriman Lainnya",
+        "title": "Estimasi Pengiriman",
+        "inHouseDays": " hari",
+        "inHouseDay": " hari"
+    },
+    "stock":{
+        "IN_STOCK": "Stock Tersedia",
+        "OUT_STOCK": "Stock Habis"
+    },
+    "submitReview" : "Kirim review" ,
+    "successAddCart": "Produk telah ditambahkan ke keranjang",
+    "title" : "Title",
+    "upsellTitle": "Mungkin Anda suka",
+    "validate": {
+        "detail": "Detail tidak boleh kosong",
+        "fieldRequired": "Field ini harus di isi",
+        "maxCharacters": "Maksimal $ karakter",
+        "nickname": "Nickname tidak boleh kosong",
+        "rating": "Rating tidak boleh kosong",
+        "title": "Title tidak boleh kosong"
+    },
+    "viewGuide" : "View site guide",
+    "wishlist": "Tambah ke Daftar Keinginan",
+    "writeReview" : "Beri ulasan",
+    "yourCustomization": "Pilihan Kamu"
+}

@@ -1,0 +1,16 @@
+{
+    "haveAccount": "Jika sudah punya akun",
+    "pageTitle": "Masuk",
+    "forgotPassword": "Lupa Kata Sandi Anda?",
+    "notHaveAccount": "Belum mempunyai akun ?",
+    "switchPhone": "Login dengan nomor telepon",
+    "success": "Masuk berhasil",
+    "failed": "Masuk gagal",
+    "registerTitle" : "Buat Akun",
+    "customerLogin": "Login",
+    "registerCustomer": "Pelanggan terdaftar",
+    "newCustomer": "Pelanggan baru",
+    "loginInformation": "Jika kamu sudah mempunyai akun, silahkan masuk dengan email atau nomor telepon.",
+    "loginOtpInformation": " Jika kamu mempunyai akun terdaftar dengan nomor telepon, masuk dengan nomor telepon.",
+    "registerInformation": "Jika Anda mewakili sebuah perusahaan, Anda disarankan menggunakan area akun perusahaan kami. Dengan membuat akun perusahan, akses terhadap fitur B2B seperti kuotasi, manajemen pengguna perusahan, pemesanan cepat, dan lainnya dapat disediakan untuk semua anggota perusahaan."
+}

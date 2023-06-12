@@ -1,0 +1,174 @@
+.membership-promo {
+    color: #414048;
+}
+.membership-promo .pagebuilder-slider {
+    max-width: 974px;
+    width: 100%;
+    border-radius: 8px;
+}
+.membership-promo .membership-tagline {
+    margin: 0 auto 30px;
+    max-width: 680px !important;
+}
+.membership-promo .membership-tagline p {
+    margin-bottom: 4px;
+}
+.membership-promo .membership-tagline span {
+    font-size: 18px !important;
+}
+#html-body [data-pb-style=HRDMXAI] {
+    margin-top: 24px !important;
+    margin-bottom: 12px !important;
+}
+.membership-promo .page-title span {
+    font-size: 50px !important;
+}
+.membership-promo .page-title p {
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+.membership-promo .swiper-wrapper {
+    transition-duration: 300ms !important;
+}
+.membership-promo .swiper-slide {
+    text-align: center;
+}
+.membership-promo .pagebuilder-overlay {
+    max-width: 914px;
+    min-height: unset !important;
+    padding: 10px 10px 15px 10px !important;
+    margin: auto;
+}
+.membership-promo .info-level {
+    margin: 0 0 30px;
+}
+.membership-promo .member-benefit {
+    font-weight: 700;
+    font-size: 18px;
+}
+.membership-promo .benefit-section {
+    background: #fff;
+    width: 320px;
+    padding: 15px 0;
+    margin: 0 auto;
+    border-radius: 25px;
+    color: #414048;
+}
+.membership-promo .swiper-button-prev,
+.membership-promo .swiper-button-next {
+    background: #fff;
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+    box-shadow: 0px 3px 6px #00000029;
+}
+.membership-promo .swiper-button-prev:after,
+.membership-promo .swiper-button-next:after {
+    font-size: 12px;
+    font-weight: 700;
+}
+.membership-promo .bronze,
+.membership-promo .silver,
+.membership-promo .gold,
+.membership-promo .platinum,
+.membership-promo .diamond {
+    margin: 0 27px;
+    border-radius: 8px;
+}
+.membership-promo .bronze {
+    background: #fff2e9;
+}
+.membership-promo .silver {
+    background: #f2f9ff;
+}
+.membership-promo .gold {
+    background: #fff9e1;
+}
+.membership-promo .platinum {
+    background: #414048;
+    color: #fff;
+}
+.membership-promo .diamond {
+    background: #cff5ff;
+}
+.membership-promo .member-level {
+    padding-left: 15px;
+}
+.membership-promo .member-level span {
+    font-size: 30px !important;
+}
+.membership-promo .bronze .member-level span:before,
+.membership-promo .silver .member-level span:before,
+.membership-promo .gold .member-level span:before,
+.membership-promo .platinum .member-level span:before,
+.membership-promo .diamond .member-level span:before {
+    content: '';
+    background-repeat: no-repeat;
+    width: 48px;
+    height: 44px;
+    display: inline-block;
+    vertical-align: top;
+}
+.membership-promo .bronze .member-level span:before {
+    background-image: url(../../public/assets/img/member_level/award-bronze.svg);
+}
+.membership-promo .silver .member-level span:before {
+    background-image: url(../../public/assets/img/member_level/award-silver.svg);
+}
+.membership-promo .gold .member-level span:before {
+    background-image: url(../../public/assets/img/member_level/award-gold.svg);
+}
+.membership-promo .platinum .member-level span:before {
+    background-image: url(../../public/assets/img/member_level/award-platinum.svg);
+}
+.membership-promo .diamond .member-level span:before {
+    background-image: url(../../public/assets/img/member_level/award-diamond.svg);
+}
+.membership-promo .benefit-section span:before {
+    background-image: url(../../public/assets/img/member_level/check.svg);
+    content: '';
+    background-repeat: no-repeat;
+    width: 28px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+/**
+ responsive mobile mode 
+*/
+@media (max-width: 768px) {
+    .membership-promo .page-title span {
+        font-size: 30px !important;
+    }
+    .membership-promo .page-title p {
+        margin-bottom: 12px;
+        margin-top: 12px;
+    }
+    .membership-promo .membership-tagline {
+        margin: 0 24px 30px;
+    }
+    .membership-promo .membership-tagline span {
+        font-size: 14px !important;
+    }
+    .membership-promo .membership-tagline p {
+        margin-bottom: 0px;
+    }
+    .membership-promo .info-level {
+        margin: 0;
+        padding: 0px 10px;
+    }
+    .membership-promo .benefit-section {
+        width: 70%;
+    }
+    .membership-promo .member-level span {
+        font-size: 23px !important;
+        line-height: 1.8;
+    }
+}
+
+/**
+ responsive desktop mode
+*/
+@media (min-width: 769px) {
+}

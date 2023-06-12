@@ -1,0 +1,14 @@
+{   
+    "balance": "Balance",
+    "balanceTitle": "Current balance is ",
+    "canbeTitle": "Total can be redeem at checkout is ",
+    "comment": "Comment",
+    "emptyMessage" : "You have no transactions.",
+    "expired" : "Expired date",
+    "learnMore": "To learn about reward point program. $ Click here",
+    "myPoint": "My point",
+    "point": "Point",
+    "title": "Reward point",
+    "transactionDate": "Transaction date",
+    "transactionId" : "Transaction ID"
+}

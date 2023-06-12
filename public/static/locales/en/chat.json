@@ -1,0 +1,19 @@
+{
+    "chooseDistributor": "Choose Distributor",
+    "chooseDistributorList": "Select a distributor to start the conversation",
+    "needHelp": "Need Chat Bot Help",
+    "autoText": {
+        "readyStock": "Hi, this item ready?",
+        "expired": "When this item is expired?",
+        "sendingToday": "When can it be shipped?",
+        "askingOrder": "How do I track my order?",
+        "payment": "How do I proceed with the payment?",
+        "credit": "How to check the debt status?",
+        "cancel": "How to cancel the order?",
+        "minimumOrder": "What is the minimum order for free shipping?",
+        "thanks": "Thank you!"
+    },
+    "emptyUser": "No User Found",
+    "writeMessage": "Write Message",
+    "sendingMessage": "Send Message"
+}
